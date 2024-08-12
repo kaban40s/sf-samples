@@ -1,0 +1,3 @@
+String s = 'a0Q4K000000fmn3';
+if (s instanceOf Id) System.debug('valid id');
+else System.debug('invalid id');
